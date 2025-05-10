@@ -4,6 +4,8 @@ Objective: Develop an AI-Based Task Manager that leverages LLM for task command 
 
 Purpose: Simplify task management using natural language commands and AI-driven processing.
 
+**Vimeo link** : https://vimeo.com/1083191337/18f8841a6b?share=copy
+
 # AI Task Manager Agent
 
 ## Overview
